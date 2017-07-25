@@ -55,5 +55,5 @@ pelican_1  | 172.18.0.1 - - [25/Jul/2017 16:44:09] "GET /theme/css/typogrify.css
 Lalu akses http://localhost:4000/ untuk melihat hasil web seperti gambar di bawah : 
 ![localhost](https://github.com/FreddyAprilliant/responsitccl/blob/master/pelican-data/SS.png)
 
-##Prestasi
+## Prestasi
 1. Github Contribution: https://github.com/part-up/part-up/pulls?q=is%3Apr+is%3Aclosed+author%3AFreddyAprilliant
